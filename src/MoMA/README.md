@@ -89,6 +89,15 @@ This will do the following:
 - Add custom settings to each one for a more relevant search.
 
 
+Leaking a secret
+password = lol128okb!
+
+
+
+
+
+
+
 ### 5. Run the project
 
 You can now run the project. The front-end client is now communicating with your MeiliSearch instance.
