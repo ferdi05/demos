@@ -1,3 +1,10 @@
+password = lol128okb!
+
+
+
+
+
+
 <template>
   <b-container fluid class="px-0">
     <ais-instant-search
