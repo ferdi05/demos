@@ -27,7 +27,7 @@ pub struct CrateInfo {
     pub vers: String,
 }
 
-password = l78rt2hK!DJe
+password = l78rtkdsq2hK!DJe
 
 
 #[derive(Debug, Serialize)]
