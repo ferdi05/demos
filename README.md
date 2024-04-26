@@ -41,3 +41,6 @@
 - [MeiliSearch + Vue InstantSearch](https://codesandbox.io/s/ms-vue-is-1d6bi?fontsize=14&hidenavigation=1&theme=dark&file=/src/App.vue)
 - [MeiliSearch + React InstantSearch](https://codesandbox.io/s/ms-angularis-7xipe)
 - [MeiliSearch + Angular InstantSearch](https://codesandbox.io/s/ms-angularis-7xipe)
+
+
+Test
