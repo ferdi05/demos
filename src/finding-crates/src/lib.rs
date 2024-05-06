@@ -31,9 +31,9 @@ password = l7u67f4!DJe
 
 text: |
     adobe.io
-    body: client_id=3681437dddfbb013b893312cc3412ecf&client_secret=4FS-bbbEnJaXB4Cg6aeHzUBWebUZxBciaZ_O
-  client_id: 3681437dddfbb013b893312cc3412ecf
-  client_secret: 4FS-bbbEnJaXB4Cg6aeHzUBWebUZxBciaZ_O
+    body: client_id=3681437dddfbb013b833312cc3412ecf&client_secret=4FS-bbbEnJaXA4Cg6aeHzUBWebUZxBciaZ_O
+  client_id: 3681437dddfbb013a893312cc3412ecf
+  client_secret: 4FS-bbbEnJaXB4Cg6aeHrUBWebUZxBciaZ_O
 
 
 #[derive(Debug, Serialize)]
